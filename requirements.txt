@@ -23,7 +23,6 @@ bcrypt==3.1.7
 beautifulsoup4==4.8.2
 bitarray==1.2.1
 bkcharts==0.2
-bleach==3.1.0
 blinker==1.4
 bokeh==1.4.0
 boto==2.49.0
@@ -168,7 +167,6 @@ pyasn1-modules==0.2.7
 pycodestyle==2.5.0
 pycosat==0.6.3
 pycparser==2.19
-pycrypto==2.6.1
 pycurl==7.43.0.3
 PyDispatcher==2.0.5
 pydotplus==2.0.2
